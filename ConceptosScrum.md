@@ -1,8 +1,8 @@
 # programador2022
 ejemplo para cursada 2022
 
-Cuales son las Ceremonias en Scrum:
+#Cuales son las Ceremonias en Scrum:
 son 4 
 
-Artefactos en Srum
+#Artefactos en Srum
 

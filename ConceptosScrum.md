@@ -1,4 +1,4 @@
-# Programador2022
+# Programador 2022
 ejemplo para cursada 2022
 
 # Cuales son las Ceremonias en Scrum:
@@ -8,12 +8,12 @@ son 4:
 3. Sprint Review Meeting: Se realiza al finalizar el sprint para comprobar si éste pudo completarse en su totalidad o no. En esta reunión el Product Owner debe estar presente. 
 4. Sprint Retrospective Meeting: Es una reunion final cuyo objetivo es analizar lo que funcionó y lo que no funcionó durante el desarrollo del sprint. De esta manera, el equipo puede tener un panorama de lo que realizaron correctamente y de lo que hay que mejorar. 
 
-# ARTEFACTOS:
+# Artefactos:
 - PRODUCT BACKLOG: Plan o pila de producto: Requisitos globales del producto.
 - SPRINT BACKLOG: Plan o pila de sprint: La parte del product backlog a realizar en un sprint.
 - INCREMENTO: Resultado que se obtiene de cada sprint.
 
-# ROLES:
+# Roles:
 - Scrum Master.
 - Product Owner.
 - Users.

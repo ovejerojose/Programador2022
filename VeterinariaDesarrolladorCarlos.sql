@@ -63,6 +63,6 @@ where Fecha >= '2022-01-01';
 -- Ingresos Percibidos en Julio 2022
 Select sum(Monto)
 from historial
-where Fecha between '2022-06-01' and '2022-06-30';
+where Fecha between '2022-07-01' and '2022-07-31';
 
 
